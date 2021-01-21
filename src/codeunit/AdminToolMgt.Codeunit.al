@@ -252,7 +252,7 @@ codeunit 50000 "Admin Tool Mgt."
             (TableID >= 5005270) and (TableID <= 5005363):
                 exit(true);
             //99000750 - 99008535
-            (TableID >= Database::"Work Shift") and (TableID <= Database::TempBlob):
+            (TableID >= 99000750) and (TableID <= 99008535):
                 exit(true);
             // Microsoft Localizations
             (TableID >= 100000) and (TableID <= 999999):
