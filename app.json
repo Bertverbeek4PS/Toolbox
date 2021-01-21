@@ -17,7 +17,7 @@
   "idRanges": [
     {
       "from": 50000,
-      "to": 99999
+      "to": 50999
     }
   ],
   "contextSensitiveHelpUrl": "https://Toolbox.com/help/",
